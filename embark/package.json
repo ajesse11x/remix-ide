@@ -11,6 +11,6 @@
   "dependencies": {
     "remix-ide": "latest",
     "remixd": "latest",
-    "http-server": "latest"
+    "http-server": "0.11.1"
   }
 }
